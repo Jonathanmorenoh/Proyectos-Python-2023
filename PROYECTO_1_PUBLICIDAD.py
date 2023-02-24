@@ -1,5 +1,7 @@
 #PROYECTO 1 - NOMBRE PUBLICITARIO PYTHON 2023
 
+
+
 print('Creemos un nuevo slogan pulbicitario =)')
 
 ciudad = input('Hola, ingresa tu ciudad favorita: ')
